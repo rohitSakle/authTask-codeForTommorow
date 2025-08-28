@@ -5,4 +5,4 @@ Steps to run this project:
 1. Run `npm i` command
 2. Setup database settings inside `data-source.ts` file
 3. Run `npm start` or `npm run dev` command to start application
-4. included socket-client.ts script for client side test fro socket event emit for that Run npx ts-node socket-client.ts
+4. included socket-client.ts script for client side test fro socket event emit for that Run  `npx ts-node socket-client.ts`
